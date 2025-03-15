@@ -22,5 +22,7 @@ int main()
     cout << t1.name << endl;
     cout << t1.dept << endl;
     cout << t1.subject << endl;
+    t1.changeDept("ISE");
+    cout << t1.dept;
     return 0;
 }
