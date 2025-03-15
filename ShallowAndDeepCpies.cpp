@@ -31,4 +31,4 @@ int main()
     s1.getInfo();
     s2.getInfo();
     return 0;
-}
+} 
