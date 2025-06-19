@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/prajw/Desktop/DSA-IN-CPP/Classes&Objects",
-      "program": "c:/Users/prajw/Desktop/DSA-IN-CPP/Classes&Objects/build/Debug/outDebug",
+      "cwd": "c:/Users/prajw/Desktop/DSA-IN-CPP/constructors",
+      "program": "c:/Users/prajw/Desktop/DSA-IN-CPP/constructors/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
