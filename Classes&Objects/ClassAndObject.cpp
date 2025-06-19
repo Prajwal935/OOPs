@@ -11,7 +11,7 @@ class YouTubeChannel{
 };
 
 int main(){
-  YouTubeChannel ytChannel;
+  YouTubeChannel ytChannel;//creates object directly (stack memory)
   ytChannel.name="codeBeauty";
   ytChannel.ownerName="Prajwal";
   ytChannel.subscribersCount=1800;
